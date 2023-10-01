@@ -1,4 +1,4 @@
-# MNIST 
+# MNIST with tidymodels
 
 Attempt at classification with tidymodels using MNIST data
 
